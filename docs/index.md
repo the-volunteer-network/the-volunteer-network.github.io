@@ -14,7 +14,7 @@ The app lists all the of the places in your area looking for people to volunteer
 > As a young adult that has social anxiety, Volunteering would be a great way to kill two bird with one stone, help my community and get me out of my comfort zone. I just have no idea where to start!
  
 
-> As a <type of intended user (_who_)> I want to <use of feature or functionality (_what_)> so that <benefit (_why_).
+
 
 
 ## Client component
