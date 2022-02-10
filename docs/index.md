@@ -6,12 +6,13 @@ The app lists all the of the places in your area looking for people to volunteer
 
 ## Intended users
 
--  People looking to give back to the community
+- Successful local business owners looking for ways to network and give back to their community by volunteering.
 >As a successful business owner looking to give back to my community, I have always wanted to volunteer, but I have no idea of where I could offer my time.
-> I would love to have a resource that would help me connect with volunteer opportunities.
+> I would love to have a resource that would help me connect with volunteering opportunities.
 
-- Isolated people looking to connect and help others
-> As a young adult that has social anxiety, Volunteering would be a great way to kill two bird with one stone, help my community and get me out of my comfort zone. I just have no idea where to start!
+- People who recently moved into a new town looking to meet new friends and introduce themselves to their new community by volunteering.
+> As someone who recently moved from out of state, I am always looking for ways to make new acquaintances and provide to this city that has been so welcoming.
+> Volunteering is a great place to start, having an app that points me to directly to places where people actually need my help would be great!
  
 
 
@@ -20,12 +21,14 @@ The app lists all the of the places in your area looking for people to volunteer
 ## Client component
 
 ### Functionality
-- Map of the city you live in  with all the places looking for volunteers in your area.
-- List of Volunteer opportunities
-- Calendar with volunteering opportunities
-- Lists of check in of the time and place where the user volunteered.
-- Contact info and direct email of places looking for volunteer.
-- Notification of new availability
+- Welcoming screen where the user could pick the city he is located, 
+- A Map of the city the user live in will then get deployed with all the places looking for volunteers in the user's area.
+- The user could then filter some criteria in a search bar where a list of available volunteering opportunities would show up.
+- A Calendar could also be available on a different screen with volunteering opportunities.
+- The user would have the availability to refer to a history  of their past check ins  (time and place where they have volunteered before
+- On a separate screen a list of contact info and direct email of places looking for volunteer would also be available.
+- The user would also hae the opportunity to access and favorite their preferred places to volunteer at.
+- A Notification of new availability would also be available, if the user wishes to subscribe to it letting them know of a new volunteering opportunity.
 
 
 ### Persistent data
