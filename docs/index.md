@@ -1,6 +1,6 @@
 ## Summary
 The volunteer network is an app designed for everyone who is looking to volunteer but doesn't know where to start.
-The app lists all the of the places in your area looking for people to volunteer and whre they can offer their service.
+The app lists all the of the places in your area looking for people to volunteer and where they can offer their service.
 
 
 
@@ -11,7 +11,7 @@ The app lists all the of the places in your area looking for people to volunteer
 >As a successful business owner looking to give back to my community, I have always wanted to volunteer, but I have no idea of where I could offer my time.
 > I would love to have a resource that would help me connect with volunteering opportunities.
 
-- People who recently moved into a new town looking to meet new friends and introduce themselves to their new community by volunteering.
+- People who recently moved into a new town looking to meet new friends and introduce themselves to their community by volunteering.
 
 > As someone who recently moved from out of state, I am always looking for ways to make new acquaintances and provide to this city that has been so welcoming.
 > Volunteering is a great place to start, having an app that points me  directly to places where people actually need my help would be great!
@@ -52,8 +52,8 @@ TBD
 ### Functionality
 
 - Provide lists of volunteering opportunities.
-- Maps
-
+- Locate volunteer locations that have been added to the database and then process that information in a way that is useful for the android app to display in an appropriate map.
+- Preparing and processing data and text stored in the database and accessed from the database.
 ### Persistent data
 
 - History of check ins
