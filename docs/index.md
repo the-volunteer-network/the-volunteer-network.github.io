@@ -1,4 +1,12 @@
+---
+title: Overview
+description: Project summary and roster.
+menu: Overview
+order: 0
+---
+
 ## Summary
+
 The volunteer network is an app designed for everyone who is looking to volunteer but doesn't know where to start.
 The app lists all the of the places in your area looking for people to volunteer and where they can offer their service.
 
@@ -23,6 +31,7 @@ The app lists all the of the places in your area looking for people to volunteer
 ## Client component
 
 ### Functionality
+
 - Welcoming screen where the user could pick their search location area. 
 - A map of the search area the user typed in, will then get deployed with all the places looking for volunteers.
 - The user could then filter some criteria in a search bar where a list of available volunteering opportunities would show up.
@@ -48,12 +57,15 @@ The app lists all the of the places in your area looking for people to volunteer
 
     
 ## Server component
+
 TBD
+
 ### Functionality
 
 - Provide lists of volunteering opportunities.
 - Locate volunteer locations that have been added to the database and then process that information in a way that is useful for the android app to display in an appropriate map.
 - Preparing and processing data and text stored in the database and accessed from the database.
+
 ### Persistent data
 
 - History of check ins
