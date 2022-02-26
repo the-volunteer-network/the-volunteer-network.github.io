@@ -56,7 +56,7 @@ The app lists all the of the places in your area looking for people to volunteer
   [Google sign_in](https://developers.google.com/identity/sign-in/android/start-integrating)
   - Distinguish between users and offer privacy on shared devices.
   - The app is not accessible without internet connection.
-- Geolocalization
+- Geolocation
 - Direct messaging
 
     
@@ -79,7 +79,8 @@ TBD
     
 ### External services
 
-- Geolocalization
+- Geolocation
+[Geolocation] (https://developers.google.com/maps/documentation/geolocation/overview)
 - Direct messaging
 
     
