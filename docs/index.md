@@ -80,7 +80,8 @@ TBD
 ### External services
 
 - Geolocation
-   -[Geolocation](https://developers.google.com/maps/documentation/geolocation/overview)
+   [Geolocation](https://developers.google.com/maps/documentation/geolocation/overview)
+   -The Geolocation API returns a location and accuracy radius based on information about cell towers and WiFi nodes that the mobile client can detect.
 - Direct messaging
 
     
