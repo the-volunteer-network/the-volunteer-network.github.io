@@ -80,7 +80,7 @@ TBD
 ### External services
 
 - Geolocation
-[Geolocation] (https://developers.google.com/maps/documentation/geolocation/overview)
+   -[Geolocation](https://developers.google.com/maps/documentation/geolocation/overview)
 - Direct messaging
 
     
