@@ -50,16 +50,19 @@ The app lists all the of the places in your area looking for people to volunteer
 - Name/age/location of the user
  
     
-### Device/external services
+### Device/External services
 
-- Google Sign in
-  [Google sign_in](https://developers.google.com/identity/sign-in/android/start-integrating)
+- [Google sign_in](https://developers.google.com/identity/sign-in/android/start-integrating)
   - Distinguish between users and offer privacy on shared devices.
   - The app is not accessible without internet connection.
-- Geolocation
-- Direct messaging
+- [Geolocation](https://developers.google.com/maps/documentation/geolocation/overview)  
+  - The application will use Geolocation to populate a map with the volunteering opportunities available.
+  - The application will still function, but will not be able to display the map, and instead provide only textual returns.
+- [Direct Messaging](https://developer.android.com/reference/android/os/Messenger)  
+  - The application will use the Messenger function to relay conversations between organizations and individual users.
+  - The application will still function, but will not be able to provide real-time messaging between user and organization, but the two will still be able to communicate provided the user listed email or phone number.
 
-    
+ 
 ## Server component
 
 TBD
@@ -75,15 +78,8 @@ TBD
 - History of check ins
 - Favorite volunteering place
 - Stored and saved data of past activities
-- Name/age/location of the user 
-    
-### External services
-
-- [Geolocation](https://developers.google.com/maps/documentation/geolocation/overview)
-- The Geolocation API returns a location and accuracy radius based on information about cell towers and WiFi nodes that the mobile client can detect.
-- Direct messaging
-
-    
+- Name/location of the user 
+ 
 ## Stretch goals/possible enhancements 
 
 - Forum
