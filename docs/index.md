@@ -7,9 +7,10 @@ order: 0
 
 ## Summary
 
-The volunteer network is an app designed for everyone who is looking to volunteer but doesn't know where to start.
-The app lists all the of the places in your area looking for people to volunteer and where they can offer their service.
+[//]: # (The volunteer network is an app designed for everyone who is looking to volunteer but doesn't know where to start.)
 
+[//]: # (The app lists all the of the places in your area looking for people to volunteer and where they can offer their service.)
+  The Volunteer Network is an application that aims to connect volunteers with various organizations that need assistance in accomplishing their goals. Using their location and information about their skills, users will be able to provide organizations that are in need of particular or general skills in their area.  
 
 
 ## Intended users
@@ -52,13 +53,13 @@ The app lists all the of the places in your area looking for people to volunteer
     
 ### Device/External services
 
-- [Google sign_in](https://developers.google.com/identity/sign-in/android/start-integrating)
+- [Google Sign In](https://developers.google.com/identity/sign-in/android/start-integrating)
   - Distinguish between users and offer privacy on shared devices.
   - The app is not accessible without internet connection.
-- [Geolocation](https://developers.google.com/maps/documentation/geolocation/overview)  
+- [Google Maps Geolocation](https://developers.google.com/maps/documentation/geolocation/overview)  
   - The application will use Geolocation to populate a map with the volunteering opportunities available.
   - The application will still function, but will not be able to display the map, and instead provide only textual returns.
-- [Direct Messaging](https://developer.android.com/reference/android/os/Messenger)  
+- [Android Direct Messaging](https://developer.android.com/reference/android/os/Messenger)  
   - The application will use the Messenger function to relay conversations between organizations and individual users.
   - The application will still function, but will not be able to provide real-time messaging between user and organization, but the two will still be able to communicate provided the user listed email or phone number.
 
