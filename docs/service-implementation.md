@@ -25,6 +25,7 @@ order: 20
 
 
 ## ViewModel Class
+
 - [`LoginViewModel`](https://github.com/the-volunteer-network/tvn-client/tree/main/app/src/main/java/edu/cnm/deepdive/tvnclient/viewmodel)
 
 
@@ -39,9 +40,15 @@ order: 20
 - [`AbstractOpportunityService`](https://github.com/the-volunteer-network/tvn-service/blob/main/src/main/java/edu/cnm/deepdive/tvnservice/service/AbstractOpportunityService.java)
 
 ## Oauth 2.0 resource server
+
 - [` `]()
 - [` `]()
 - [` `]()
+
+## JavaDocs
+
+- [Service](apidocs/)
+
 
 
 
