@@ -47,7 +47,7 @@ order: 20
 
 ## JavaDocs
 
-- [Service](apidocs/service/)
+- [Service](service-javadocs/)
 
 
 
