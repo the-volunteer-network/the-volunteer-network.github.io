@@ -6,26 +6,16 @@ order: 40
 ---
 
 ```h2
-create table history
-(
-    histories_id  UUID not null,
-    message       varchar(255),
-    search        varchar(255),
-    user_favorite varchar(255),
-    user_id       UUID not null,
-    primary key (histories_id)
-);
 create table opportunity
 (
-    opportunity_id     UUID         not null,
-    available_position integer      not null,
-    calendar           timestamp    not null,
-    description        varchar(255),
-    external_key       UUID         not null,
-    name               varchar(255) not null,
-    needed_skill       varchar(255),
-    title              varchar(255),
-    organization_id    UUID         not null,
+    opportunity_id  UUID         not null,
+    created         timestamp    not null,
+    description     varchar(255),
+    external_key    UUID         not null,
+    name            varchar(255) not null,
+    needed_skill    varchar(255),
+    title           varchar(255),
+    organization_id UUID         not null,
     primary key (opportunity_id)
 );
 create table organization
@@ -38,6 +28,18 @@ create table organization
     name            varchar(255) not null,
     owner_id        UUID         not null,
     primary key (organization_id)
+);
+create table organization_volunteer
+(
+    organization_id UUID not null,
+    user_id         UUID not null,
+    primary key (organization_id, user_id)
+);
+create table user_favorite
+(
+    user_id         UUID not null,
+    organization_id UUID not null,
+    primary key (user_id, organization_id)
 );
 create table user_profile
 (
