@@ -1,6 +1,6 @@
 ---
-title: Build Instructions and technical requirement.
-description: User and build instructions, technical requirements and dependencies.
+title: User and Build Instructions 
+description: User and build instructions.
 menu: Instructions
 order: 70
 ---
@@ -32,16 +32,7 @@ order: 70
 - Change the current working directory to the desired location.
 - Execute the build.
 
-## Technical Requirements and Dependencies
 
-#### This app requires:
-
-- Minimum SDK 26
-- Room
-- ReactiveX
-- Stetho
-- Google material design
-- Has been tested on Emulator API 28
 
         
     
