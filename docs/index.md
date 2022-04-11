@@ -48,7 +48,7 @@ order: 0
 - History of check ins
 - Favorite volunteering place
 - Stored and saved data of past activities
-- Name/age/location of the user
+- Name and location of the user
  
     
 ### Device/External services
