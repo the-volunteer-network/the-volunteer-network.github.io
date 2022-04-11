@@ -12,7 +12,6 @@ order: 80
 - Preload json file
 - Web service application, incorporating:
    - Data model
-   - Embedded Apache Derby database
    - Hibernate ORM
    - JPA
 Custom entity classes
@@ -27,7 +26,7 @@ Custom entity classes
 - Authentication
   - Spring Framework Security
   - Google Sign In (external service; see https://developers.google.com/identity)
-  - Custom authentication verifier method for audience (client ID)
+
 
 ## Front-end
 
