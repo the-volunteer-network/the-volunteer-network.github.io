@@ -2,7 +2,7 @@
 title: Build Instructions and technical requirement.
 description: User and build instructions, technical requirements and dependencies.
 menu: Instructions
-order: 60
+order: 70
 ---
 
 ## Basic User Instructions

@@ -2,7 +2,7 @@
 title: Outlines of technology stacks
 description: User and build instructions, technical requirements and dependencies.
 menu: Technology inventory
-order: 70
+order: 80
 ---
 
 ## Back-end
