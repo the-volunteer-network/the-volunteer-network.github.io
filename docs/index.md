@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: Project summary and roster.
+description: Project summary
 menu: Overview
 order: 0
 ---
