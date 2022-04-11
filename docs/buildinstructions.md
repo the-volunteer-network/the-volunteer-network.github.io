@@ -26,24 +26,29 @@ order: 70
 
 ### Cloning the Service
 
--1 On GitHub.com, navigate to [The volunteer network](https://github.com/the-volunteer-network/tvn-service)
--2 Click on Code.
--3 Click on SSH link and copy the link.
--4 Open IntelliJ.
--5 Click on get from VCS and clone the repository.
--6 Paste the SSH link.
-7- Change the current working directory to the desired location.
-8- Run the service.
+- On GitHub.com, navigate to [The volunteer network](https://github.com/the-volunteer-network/tvn-service)
+- Click on Code.
+- Click on SSH link and copy the link.
+- Open IntelliJ.
+- Click on get from VCS and clone the repository.
+- Paste the SSH link.
+- Change the current working directory to the desired location.
+- Run the service.
 
 ### Cloning the Client
-1- On GitHub.com, navigate to [The volunteer network](https://github.com/the-volunteer-network/tvn-client)
-2- Repeat step 2 to step 7 from cloning the service side.
-8- Execute the build. while the service is running.
+- On GitHub.com, navigate to [The volunteer network](https://github.com/the-volunteer-network/tvn-client)
+- Click on Code.
+- Click on SSH link and copy the link.
+- Open IntelliJ.
+- Click on get from VCS and clone the repository.
+- Paste the SSH link.
+- Change the current working directory to the desired location.
+- Execute the build. while the service is running.
 
 ### Properties file
-1- Use the property file provided and make sure it is named "tvn.properties", otherwise rename it.
-2- Place the file in this location in your computer, C:\Users\{Your user name}\bootcamp\services
-3- replace the place holder{your user name} with the corresponding name used in your computer.
+- Use the property file provided and make sure it is named "tvn.properties", otherwise rename it.
+- Place the file in this location in your computer, C:\Users\{Your username}\bootcamp\services
+- replace the place-holder{your username} with the corresponding name used in your computer.
 
 
 
