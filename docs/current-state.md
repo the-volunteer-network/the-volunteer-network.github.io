@@ -10,7 +10,7 @@ menu: State
 - The Opportunity screen is not functional. It displays a search bar that needs to be implemented. 
 - There is no way to add an organization with its respective address when clicking on the info button.
 - The map doesn't move to display the location selected on screen.
-- The save button in the profile screen may need to be improved, as of now when greyed out, it is not clear what its usage is.
+- The save button in the profile screen may need to be hidden when not in use.
 - Clicking on a single organization in the search organization fragment is not currently implemented.
 
 ## Cosmetic Enhancement
