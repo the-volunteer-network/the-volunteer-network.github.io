@@ -26,7 +26,7 @@ order: 70
 
 ### Cloning the Service
 
-- On GitHub.com, navigate to [The volunteer network](https://github.com/the-volunteer-network/tvn-service)
+- On GitHub, navigate to [The volunteer network](https://github.com/the-volunteer-network/tvn-service)
 - Click on Code.
 - Click on SSH link and copy the link.
 - Open IntelliJ.
@@ -36,7 +36,7 @@ order: 70
 - Run the service.
 
 ### Cloning the Client
-- On GitHub.com, navigate to [The volunteer network](https://github.com/the-volunteer-network/tvn-client)
+- On GitHub, navigate to [The volunteer network](https://github.com/the-volunteer-network/tvn-client)
 - Click on Code.
 - Click on SSH link and copy the link.
 - Open IntelliJ.
