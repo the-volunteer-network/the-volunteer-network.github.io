@@ -17,7 +17,7 @@ order: 20
 
 - [`Database`]()
 
-- ## DAO Interfaces 
+## DAO Interfaces 
 
 - [`User`](https://github.com/the-volunteer-network/tvn-service/blob/main/src/main/java/edu/cnm/deepdive/tvnservice/model/dao/UserRepository.java)
 - [`Organization`](https://github.com/the-volunteer-network/tvn-service/blob/main/src/main/java/edu/cnm/deepdive/tvnservice/model/dao/OrganizationRepository.java)
