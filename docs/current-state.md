@@ -19,11 +19,11 @@ menu: State
 
 
 ## Functional Stretch Goals
-- Add a setting screen.
-- Implement ability to add pictures to the profile screen.
-- Messaging ability
-- Improving the map so it tracks the user.
-- Adding address field to the edit organization.
+- Addition of preferences/settings screen.
+- Implement ability to add profile photo to the profile screen.
+- Messaging ability.
+- Improving the search organization map so that it tracks the users current location.
+- Adding address field as an editable in organization details.
 - Adding methods that extract the latitude and longitude of addresses automatically.
 - Ways to search for current volunteer and users of the app.
-- More personal user experience.
+- More personalized user experience.

@@ -18,12 +18,12 @@ order: 0
 - Successful local business owners looking for ways to network and give back to their community by volunteering.
 
 >As a successful business owner looking to give back to my community, I have always wanted to volunteer, but I have no idea of where I could offer my time.
-> I would love to have a resource that would help me connect with volunteering opportunities.
+> I would love to have a resource that would help me connect with volunteering opportunities in the local area.
 
 - People who recently moved into a new town looking to meet new friends and introduce themselves to their community by volunteering.
 
-> As someone who recently moved from out of state, I am always looking for ways to make new acquaintances and provide to this city that has been so welcoming.
-> Volunteering is a great place to start, having an app that points me  directly to places where people actually need my help would be great!
+> As a professional who recently moved from out of state, I am always looking for ways to make new acquaintances and provide to a community that has been so welcoming.
+> Volunteering is a great place to start, and having an app that points me directly to organizations where people are in need of my unique set of skills would be great!
  
 
 
