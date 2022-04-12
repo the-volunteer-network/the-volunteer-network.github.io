@@ -33,8 +33,7 @@ Custom entity classes
 - Android SDK 31
 - Data model
   - H2 database
-Custom entity and other model classes
-Custom type converters
+-Custom type converters
 - DTO Classes
 - Google material design
 - Google Map
