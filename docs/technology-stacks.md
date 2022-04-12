@@ -26,7 +26,6 @@ Custom entity classes
   - Interfaces
 - Authentication
   - Spring Framework Security
-- [Google Sign In](https://developers.google.com/identity/sign-in/android/start-integrating)
   
 ## Front-end
 
@@ -50,4 +49,4 @@ Custom entity classes
 - Controller
   - Fragment classes
 - Authentication
-**- [Google Sign In](https://developers.google.com/identity/sign-in/android/start-integrating)**
+[Google Sign In](https://developers.google.com/identity/sign-in/android/start-integrating)**
