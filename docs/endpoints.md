@@ -94,13 +94,13 @@ order: 90
 - @PathVariable: opportunityId
 - Mediatype : application/json
 
-####/users/me[GET]
+#### /users/me[GET]
 - Retrieves the current user.
 - No authentication required
 - @RequestBody: user object
 - Mediatype : application/json
 
-####/users/me[PUT]
+#### /users/me[PUT]
 - Modifies the current user.
 - Retrieves the current user.
 - No authentication required
