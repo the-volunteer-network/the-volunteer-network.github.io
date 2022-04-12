@@ -17,12 +17,12 @@ order: 70
 
 ## Profile / Home
 
-1. This is the landing page after user has signed in with their information.
-2. Users will be able to see their details and organizations on this page.
-3. Organizations will appear at bottom of page if user has claimed status of volunteer, favorite, or owner of.
-4. Details of organizations can be seen (and if permission is given, edited) if user taps on information icon in each respective organization boxes.
-5. Volunteer status and favorite status can be changed by tapping icons in respective organization boxes.
-6. Viewing other profiles will not provide access to editing to current user.
+
+1. Users will be able to see their details and organizations on this page.
+2. Organizations will appear at bottom of page if user has claimed status of volunteer, favorite, or owner of.
+3. Details of organizations can be seen (and if permission is given, edited) if user taps on information icon in each respective organization boxes.
+4. Volunteer status and favorite status can be changed by tapping icons in respective organization boxes.
+5. Viewing other profiles will not provide access to editing to current user.
 
 ## Search Organizations
 
