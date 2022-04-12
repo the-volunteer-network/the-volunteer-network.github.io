@@ -1,6 +1,6 @@
 ---
 title: Overview
-description: Project summary and roster.
+description: Project summary
 menu: Overview
 order: 0
 ---
@@ -59,11 +59,7 @@ order: 0
 - [Google Maps Geolocation](https://developers.google.com/maps/documentation/geolocation/overview)  
   - The application will use Geolocation to populate a map with the volunteering opportunities available.
   - The application will still function, but will not be able to display the map, and instead provide only textual returns.
-- [Android Direct Messaging](https://developer.android.com/reference/android/os/Messenger)  
-  - The application will use the Messenger function to relay conversations between organizations and individual users.
-  - The application will still function, but will not be able to provide real-time messaging between user and organization, but the two will still be able to communicate provided the user listed email or phone number.
-
- 
+  
 ## Server component
 
 TBD
@@ -76,7 +72,7 @@ TBD
 
 ### Persistent data
 
-- History of check ins
+
 - Favorite volunteering place
 - Stored and saved data of past activities
 - Name/location of the user 
@@ -85,5 +81,9 @@ TBD
 
 - Forum
 - Live and direct update from the volunteer places
+- [Android Direct Messaging](https://developer.android.com/reference/android/os/Messenger)
+  - The application will use the Messenger function to relay conversations between organizations and individual users.
+  - The application will still function, but will not be able to provide real-time messaging between user and organization, but the two will still be able to communicate provided the user listed email or phone number.
+- History of check ins
 
 
