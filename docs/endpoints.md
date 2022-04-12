@@ -4,7 +4,6 @@ description: REST service endpoint documentation.
 menu: Endpoint
 order: 90
 ---
-
 ## REST service endpoint 
 
 #### /organizations[GET] 
