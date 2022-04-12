@@ -1,0 +1,6 @@
+edu.cnm.deepdive.tvnclient
+edu.cnm.deepdive.tvnclient.adapter
+edu.cnm.deepdive.tvnclient.controller
+edu.cnm.deepdive.tvnclient.model.dto
+edu.cnm.deepdive.tvnclient.service
+edu.cnm.deepdive.tvnclient.viewmodel
