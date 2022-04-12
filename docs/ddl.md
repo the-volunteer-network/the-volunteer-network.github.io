@@ -24,6 +24,8 @@ create table organization
     about           varchar(255) not null,
     created         timestamp    not null,
     external_key    UUID         not null,
+    latitude        double       not null,
+    longitude       double       not null,
     mission         varchar(255) not null,
     name            varchar(255) not null,
     owner_id        UUID         not null,
