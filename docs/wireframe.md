@@ -5,4 +5,4 @@ menu: Wireframe
 order: 5
 ---
 
-[![Wireframe diagram](image/tvnwireframe.png)](pdf/tvnwireframe.pdf)
+[![Wireframe diagram](image/tvnwireframe.svg)](pdf/tvnwireframe.pdf)
