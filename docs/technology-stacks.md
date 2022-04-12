@@ -33,7 +33,7 @@ Custom entity classes
 - Android SDK 31
 - Data model
   - H2 database
--Custom type converters
+- Custom type converters
 - DTO Classes
 - Google material design
 - Google Map
@@ -41,7 +41,7 @@ Custom entity classes
 - ReactiveX
 - Gson
 - OkHTTP libraries
-Custom serializer/deserializers
+- Custom serializer/deserializers
 - Viewmodel components
    - Android Lifecycle framework (ViewModel & LiveData)
    - Custom viewmodel classes
