@@ -11,6 +11,7 @@ order: 80
 - Maven Javadoc
 - Spring Hateoas
 - Preload json file
+- Tomcat
 - Web service application, incorporating:
    - Data model
    - Hibernate ORM
