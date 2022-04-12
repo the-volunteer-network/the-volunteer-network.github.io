@@ -1,0 +1,6 @@
+edu.cnm.deepdive.tvnservice
+edu.cnm.deepdive.tvnservice.configuration
+edu.cnm.deepdive.tvnservice.controller
+edu.cnm.deepdive.tvnservice.model.dao
+edu.cnm.deepdive.tvnservice.model.entity
+edu.cnm.deepdive.tvnservice.service
