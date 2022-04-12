@@ -52,7 +52,7 @@ order: 20
 
 ## JavaDocs
 
-- [Service](service-javadocs/)
+- [Service](docs/service-javadocs/)
 - [Client](client-javadocs/)
 
 
