@@ -15,7 +15,7 @@ order: 70
 
 * Users will navigate the application using the drawer menu, the following is the features presented in each tab.
 
-### Profile / Home
+## Profile / Home
 
 1. This is the landing page after user has signed in with their information.
 2. Users will be able to see their details and organizations on this page.
