@@ -46,7 +46,7 @@ order: 70
 - Execute the build. while the service is running.
 
 ### Properties file
-- Use the property file provided and make sure it is named "tvn.properties", otherwise rename it.
+- Use the property file provided and make sure it is named "tvn.properties", otherwise rename it accordingly.
 - Place the file in this location in your computer, C:\Users\{Your username}\bootcamp\services
 - replace the place-holder{your username} with the corresponding name used in your computer.
 
